@@ -1,6 +1,6 @@
 # Store Sales Snowflake ERD
 
-[Kaggle - Sales Forecasting Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)을 사용하였으며,  
+[Kaggle - Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)을 사용하였으며,  
 ERD 다이어그램은 [dbdiagram.io](https://dbdiagram.io/home) 툴을 이용해 작성했습니다.
 4년 간의 대형마트 판매 데이터 셋을 다양한 관점에서 매출액을 분석하고자 합니다.
 
